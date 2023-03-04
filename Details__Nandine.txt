@@ -1,0 +1,33 @@
+Image Collection:
+======================
+
+Color Collection:
+======================
+1. Primary Color	: #fe320a
+2. Secondary Color	: #
+3. Body Text Color	: #1e1e1e
+4. Heading Color	: #151515
+5. Black		: #000
+6. White		: #fff
+
+BG color		: #f3f3f3
+
+Font Family Collection:
+======================
+1. @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+
+
+Template Full Width	: 1600px
+Content Width		: 1170px 
+Padding			: 30
+
+Section Padding		: 80px;
+Button	padding		: 20px 40px;
+
+line			: 1px
+
+
